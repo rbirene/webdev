@@ -1,5 +1,5 @@
 <h1>My Design & Development Resources</h1>
-<p>My collection of web design, web development and learning resources.</p><br>
+<p>My collection of web design, web development and learning resources that I found useful. This list is frequently updated.</p><br>
 
 <h2>Design</h2>
 <h3>Colours</h3>
