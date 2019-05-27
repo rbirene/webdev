@@ -1,23 +1,34 @@
 <h1>Design & Development Resources</h1>
-<p>My collection of web design, web development and learning resources that I find useful. This list is frequently updated.</p><br>
+<p>My collection of web design, web development and other learning resources that I find useful. This list is frequently updated.</p><br>
 
 <h2>💻 Development</h2>
-  <h3>Big Data</h3>
-    <ul>
-      <li><a href="https://codeburst.io/the-front-end-checklist-8b2292fdda44">The Front-End Checklist: before website launch</a></li>
-    </ul>
   <h3>Computer Science</h3>
+    <ul>
+      <li><a href="https://www.coursera.org/learn/build-a-computer">Coursera: Build a Modern Computer from First Principles</a></li>
+      <li><a href="https://github.com/ossu/computer-science">GitHub: Open Source Society University</a></li>
+    </ul>
     <h4>Algorithms</h4>
       <ul>
         <li><a href="https://www.coursera.org/learn/algorithms-part1">Coursera: Algorithms, Part I</a></li>
         <li><a href="https://www.khanacademy.org/computing/computer-science/algorithms">Khan Academy: Computer Science Algorithms</a></li>
         <li><a href="https://udacity.com/course/data-structures-and-algorithms-in-python--ud513">Udacity: Intro to Data Structures and Algorithms</a></li>
       </ul>
-  <h3>Cyber Security</h3>
-    <ul>
-      <li><a href="https://github.com/vitalysim/Awesome-Hacking-Resources">GitHub: Hacking Resources</a></li>
-      <li><a href="https://www.immersivelabs.com">Immersive Labs: platform for hands-on cyber skills development</a></li>
-    </ul>
+     <h4>Big Data</h4>
+      <ul>
+        <li><a href="https://cognitiveclass.ai/">Cognitive Class: data science and cognitive computing courses</a></li>
+        <li><a href="https://www.coursera.org/specializations/ibm-data-science-professional-certificate">Coursera: IBM Data Science Professional Certificate</a></li>
+        <li><a href="https://www.datacamp.com/">Data Camp: learn data science online</a></li>
+      </ul>
+     <h4>Cyber Security</h4>
+      <ul>
+        <li><a href="https://github.com/vitalysim/Awesome-Hacking-Resources">GitHub: Hacking Resources</a></li>
+        <li><a href="https://www.immersivelabs.com">Immersive Labs: platform for hands-on cyber skills development</a></li>
+      </ul>
+     <h4>Machine Learning</h4>
+      <ul>
+        <li><a href="https://www.coursera.org/learn/machine-learning">Coursera: Machine Learning</a></li>
+        <li><a href="https://www.coursera.org/specializations/mathematics-machine-learning">Coursera: Mathematics for Machine Learning Specialisation</a></li>
+      </ul>
   <h3>Git</h3>
     <ul>
       <li><a href="https://www.codecademy.com/learn/learn-git">Codecademy: Learn Git</a></li>
