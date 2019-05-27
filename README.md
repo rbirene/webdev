@@ -36,11 +36,14 @@
     </ul>
   <h3>HTML &amp; CSS</h3>
     <ul>
+      <li><a href="https://30-seconds.github.io/30-seconds-of-css/">30 Seconds of CSS: collection of useful CSS snippets</a></li>
       <li><a href="https://www.codecademy.com/learn/learn-html">Codecademy: Introduction to HTML</a></li>
       <li><a href="https://www.codecademy.com/learn/learn-css">Codecademy: Learn CSS</a></li>
       <li><a href="https://www.codecademy.com/learn/learn-responsive-design">Codecademy: Learn Responsive Design</a></li>
       <li><a href="https://css-tricks.com/">CSS Tricks: tips, tricks and techniques on using CSS</a></li>
+      <li><a href="https://internetingishard.com/html-and-css/">HTML and CSS is Hard: visual web dev tutorial for complete beginners</a></li>
       <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css">Khan Academy: Intro to HTML/CSS, Making webpages</a></li>
+      <li><a href="https://grid.layoutit.com/">Layout It!: CSS Grid Generator</a></li>
     </ul>
     <h4>Sass</h4>
       <ul>
@@ -102,6 +105,11 @@
       <li><a href="https://udacity.com/course/intro-to-relational-databases--ud197">Udacity: Intro to Relational Databases</a></li>
       <li><a href="https://udacity.com/course/sql-for-data-analysis--ud198">Udacity: SQL for Data Analysis</a></li>
     </ul>
+   <h3>Web Development</h3>
+    <ul>
+      <li><a href="https://devdocs.io/">DevDocs: a collection of almost all web dev docs</a></li>
+      <li><a href="https://gauger.io/fonticon/">FontIcon: online favicon creator</a></li>
+    </ul>
 <br>
 
 <h2>🎨 Design</h2>
@@ -116,16 +124,32 @@
   <h3>Colours</h3>
     <ul>
       <li><a href="https://color.adobe.com/create/color-wheel/">Adobe Color CC: colour palette</a></li>
-      <li><a href="http://colorsupplyyy.com/app/">Color Supplyyy: colour palette</a></li>
+      <li><a href="https://colordesigner.io/">ColorDesigner: colour scheme generator</a></li>
+      <li><a href="http://colormind.io/">ColorMind: colour scheme generator using deep learning</a></li>
+      <li><a href="https://colorhunt.co/">Color Hunt: colour palette ideas</a></li>
+      <li><a href="https://colors.learn.uno/">Color Interactor: checks interaction between colours in a scheme</a></li>
+      <li><a href="http://www.colorlisa.com/">Color Lisa: colour palette ideas from thr world's greatest artists</a></li>
       <li><a href="https://www.computerhope.com/htmcolor.htm">Computer Hope: HTML colours</a></li>
       <li><a href="https://coolors.co/">Coolors: colour scheme generator</a></li>
       <li><a href="https://www.materialpalette.com/">Material Palette: colour scheme generator</a></li>
       <li><a href="http://paletton.com">Paletton: colour palette</a></li>
+      <li><a href="https://picular.co/">Picular: Google but for colours</a></li>
     </ul>
   <h3>Icons</h3>
     <ul>
+      <li><a href="https://akveo.github.io/eva-icons/">Eva Icons: vector icons as svg and font</a></li>
       <li><a href="https://www.flaticon.com/">Flat Icon</a></li>
-      <li><a href="https://graphicburger.com/icons-set/">Graphic Burger: Icon Sets</a></li>
+      <li><a href="https://fontawesome.com/">Font Awesome: vector icons as svg and font</a></li>
+      <li><a href="https://forkaweso.me/Fork-Awesome/">Fork Awesome: vector icons as svg and font (based on Font Awesome)</a></li>
+      <li><a href="https://icons8.com/icons">Icons8</a></li>
+      <li><a href="https://iconsvg.xyz/">ICONSVG: customisable vector icons</a></li>
+      <li><a href="https://www.ikonate.com/">Ikonate: customisable vector icons</a></li>
+      <li><a href="http://potlabicons.com/">Potlab Icons: animated svg icons</a></li>
+      <li><a href="http://svgicons.sparkk.fr/">Sparkk: svg icons</a></li>
+      <li><a href="https://github.com/edent/SuperTinyIcons">SuperTinyIcons: miniscule svg versions of popular logos</a></li>
+      <li><a href="https://twemoji.twitter.com/">Twemoji: svg and png emoji</a></li>
+      <li><a href="https://undraw.co/illustrations">Undraw: open-source svg illustrations</a></li>
+      <li><a href="https://iconscout.com/unicons">Unicons: vector icons as svg and font</a></li>
     </ul>
   <h3>Mock-Ups</h3>
     <ul>
@@ -148,6 +172,8 @@
     </ul>
   <h3>Typography</h3>
     <ul>
+      <li><a href="https://ficture.design/">Ficture Design: archive of fonts in use for inspiration</a></li>
+      <li><a href="https://fonts.google.com/">Google Fonts: free, open-source fonts</a></li>
       <li><a href="http://fontcomb.kkuistore.com/">KK UI Store: Font Combinations Library</a></li>
     </ul>
   <br>
