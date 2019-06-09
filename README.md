@@ -157,6 +157,12 @@
       <li><a href="https://mockups.kkuistore.com/">KK UI Store: Vector Mockups Library</a></li>
       <li><a href="https://zippypixels.com/products/mockups/">Zippy Pixels: Mockups</a></li>
     </ul>
+  <h3>Prototyping Tools</h3>
+    <ul>
+      <li><a href="https://www.adobe.com/uk/products/xd.html">Adobe XD: mockup, wireframe and UI prototyping tool</a></li>
+      <li><a href="https://moqups.com/">Moqups: online mockup, wireframe and UI prototyping tool</a></li>
+      <li><a href="https://wireframe.cc/">Wireframe.cc: minimal wireframing tool/a></li>
+    </ul>
   <h3>UI/UX Kits</h3>
     <ul>
       <li><a href="http://freebies.kkuistore.com/">KK UI Store</a></li>
