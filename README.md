@@ -109,6 +109,14 @@
     <ul>
       <li><a href="https://devdocs.io/">DevDocs: a collection of almost all web dev docs</a></li>
       <li><a href="https://github.com/thedaviddias/Front-End-Checklist">Front-End Checklist: an exhaustive list of all elements needed/tested before launching website to production</a></li>
+    <h4>Web Hosting for Projects</h4>
+      <ul>
+        <li><a href="https://firebase.google.com/">Firebase: host app's static assets (HTML, CSS, JavaScript, media files, etc.), serve dynamic content and host microservices</a></li>
+        <li><a href="https://pages.github.com/">GitHub Pages: websites for projects, hosted directly from your GitHub repository</a></li>
+        <li><a href="https://www.heroku.com/">Heroku: a cloud platform that lets companies build, deliver, monitor and scale apps</a></li>
+        <li><a href="https://www.netlify.com/">Netlify: deploy your sites to a global infrastructure in seconds</a></li>
+        <li><a href="https://zeit.co/">ZEIT: The Global Serverless Platform</a></li>
+      </ul>
     </ul>
 <br>
 
