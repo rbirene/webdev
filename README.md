@@ -108,7 +108,7 @@
    <h3>Web Development</h3>
     <ul>
       <li><a href="https://devdocs.io/">DevDocs: a collection of almost all web dev docs</a></li>
-      <li><a href="https://gauger.io/fonticon/">FontIcon: online favicon creator</a></li>
+      <li><a href="https://github.com/thedaviddias/Front-End-Checklist">Front-End Checklist: an exhaustive list of all elements needed/tested before launching website to production</a></li>
     </ul>
 <br>
 
@@ -142,6 +142,7 @@
       <li><a href="https://www.flaticon.com/">Flat Icon</a></li>
       <li><a href="https://fontawesome.com/">Font Awesome: vector icons as svg and font</a></li>
       <li><a href="https://forkaweso.me/Fork-Awesome/">Fork Awesome: vector icons as svg and font (based on Font Awesome)</a></li>
+      <li><a href="https://gauger.io/fonticon/">FontIcon: online favicon creator</a></li>
       <li><a href="https://icons8.com/icons">Icons8</a></li>
       <li><a href="https://iconsvg.xyz/">ICONSVG: customisable vector icons</a></li>
       <li><a href="https://www.ikonate.com/">Ikonate: customisable vector icons</a></li>
