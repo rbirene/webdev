@@ -6,7 +6,6 @@
     <ul>
       <li><a href="https://www.coursera.org/learn/build-a-computer">Coursera: Build a Modern Computer from First Principles</a></li>
       <li><a href="https://github.com/ossu/computer-science">GitHub: Open Source Society University</a></li>
-    </ul>
     <h4>Algorithms</h4>
       <ul>
         <li><a href="https://www.coursera.org/learn/algorithms-part1">Coursera: Algorithms, Part I</a></li>
@@ -29,6 +28,7 @@
         <li><a href="https://www.coursera.org/learn/machine-learning">Coursera: Machine Learning</a></li>
         <li><a href="https://www.coursera.org/specializations/mathematics-machine-learning">Coursera: Mathematics for Machine Learning Specialisation</a></li>
       </ul>
+    </ul>
   <h3>Git</h3>
     <ul>
       <li><a href="https://www.codecademy.com/learn/learn-git">Codecademy: Learn Git</a></li>
@@ -44,7 +44,6 @@
       <li><a href="https://internetingishard.com/html-and-css/">HTML and CSS is Hard: visual web dev tutorial for complete beginners</a></li>
       <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css">Khan Academy: Intro to HTML/CSS, Making webpages</a></li>
       <li><a href="https://grid.layoutit.com/">Layout It!: CSS Grid Generator</a></li>
-    </ul>
     <h4>Sass</h4>
       <ul>
         <li><a href="https://www.codecademy.com/learn/learn-sass">Codecademy: Learn Sass</a></li>
@@ -56,12 +55,12 @@
         <li><a href="https://www.froala.com/">Froala: Bootstrap design blocks</a></li>
         <li><a href="https://tailwindcss.com/">Tailwind: CSS framework</a></li>
       </ul>
+    </ul>
   <h3>JavaScript</h3>
     <ul>
       <li><a href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy: Introduction to JavaScript</a></li>
       <li><a href="https://www.khanacademy.org/computing/computer-programming/programming">Khan Academy: Intro to JS, Drawing & Animation</a></li>
       <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css-js">Khan Academy: HTML/JS, Making webpages interactive</a></li>
-    </ul>
       <h4>AngularJS</h4>
       <ul>
         <li><a href="https://www.codecademy.com/learn/learn-angularjs">Codecademy: Learn AngularJS</a></li>
@@ -81,6 +80,7 @@
         <li><a href="https://www.codecademy.com/learn/react-101">Codecademy: Learn ReactJS, Part I</a></li>
         <li><a href="https://www.codecademy.com/learn/react-102">Codecademy: Learn ReactJS, Part I</a></li>
       </ul>
+    </ul>
   <h3>PHP</h3>
     <ul>
       <li><a href="https://www.codecademy.com/learn/learn-php">Codecademy: Learn PHP</a></li>
@@ -109,7 +109,7 @@
     <ul>
       <li><a href="https://devdocs.io/">DevDocs: a collection of almost all web dev docs</a></li>
       <li><a href="https://github.com/thedaviddias/Front-End-Checklist">Front-End Checklist: an exhaustive list of all elements needed/tested before launching website to production</a></li>
-    <h4>Web Hosting for Projects</h4>
+      <h4>Web Hosting for Projects</h4>
       <ul>
         <li><a href="https://firebase.google.com/">Firebase: host app's static assets (HTML, CSS, JavaScript, media files, etc.), serve dynamic content and host microservices</a></li>
         <li><a href="https://pages.github.com/">GitHub Pages: websites for projects, hosted directly from your GitHub repository</a></li>
