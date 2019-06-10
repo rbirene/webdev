@@ -109,13 +109,20 @@
     <ul>
       <li><a href="https://devdocs.io/">DevDocs: a collection of almost all web dev docs</a></li>
       <li><a href="https://github.com/thedaviddias/Front-End-Checklist">Front-End Checklist: an exhaustive list of all elements needed/tested before launching website to production</a></li>
-      <h4>Web Hosting for Projects</h4>
+      <h4>Content</h4>
       <ul>
-        <li><a href="https://firebase.google.com/">Firebase: host app's static assets (HTML, CSS, JavaScript, media files, etc.), serve dynamic content and host microservices</a></li>
-        <li><a href="https://pages.github.com/">GitHub Pages: websites for projects, hosted directly from your GitHub repository</a></li>
-        <li><a href="https://www.heroku.com/">Heroku: a cloud platform that lets companies build, deliver, monitor and scale apps</a></li>
-        <li><a href="https://www.netlify.com/">Netlify: deploy your sites to a global infrastructure in seconds</a></li>
-        <li><a href="https://zeit.co/">ZEIT: The Global Serverless Platform</a></li>
+        <li><a href="https://loremipsum.io/">Lorem Ipsum Generator: generate lorem ipsum placeholder text</a></li>
+        <li><a href="https://randomuser.me/">Random User Generator: generate random user data</a></li>
+      </ul>
+      <h4>Hosting</h4>
+      <ul>
+        <li><a href="https://www.digitalocean.com/">Digital Ocean</a></li>
+        <li><a href="https://firebase.google.com/">Firebase</a></li>
+        <li><a href="https://pages.github.com/">GitHub Pages</a></li>
+        <li><a href="https://www.heroku.com/">Heroku</a></li>
+        <li><a href="https://www.netlify.com/">Netlify</a></li>
+        <li><a href="https://serverless.com/">Serverless</a></li>
+        <li><a href="https://zeit.co/">ZEIT</a></li>
       </ul>
     </ul>
 <br>
@@ -166,12 +173,25 @@
       <li><a href="https://mockups.kkuistore.com/">KK UI Store: Vector Mockups Library</a></li>
       <li><a href="https://zippypixels.com/products/mockups/">Zippy Pixels: Mockups</a></li>
     </ul>
+  <h3>Photos</h3>
+    <ul>
+      <li><a href="https://isorepublic.com/">ISO Republic</a></li>
+      <li><a href="https://photos.icons8.com/">Moose</a></li>
+      <li><a href="https://negativespace.co/">Negative Space</a></li>
+      <li><a href="https://nos.twnsnd.co/">New Old Stock</a></li>
+      <li><a href="https://www.pexels.com/">Pexels</a></li>
+      <li><a href="https://picjumbo.com/">PicJumbo</a></li>
+      <li><a href="https://pixabay.com/">Pixabay</a></li>
+      <li><a href="https://unsplash.com/">Unsplash</a></li>
+    </ul>
   <h3>Prototyping Tools</h3>
     <ul>
-      <li><a href="https://www.adobe.com/uk/products/xd.html">Adobe XD: mockup, wireframe and UI prototyping tool</a></li>
-      <li><a href="https://icons8.com/lunacy">Lunacy: Free Graphic Design Software</a></li>
-      <li><a href="https://moqups.com/">Moqups: online mockup, wireframe and UI prototyping tool</a></li>
-      <li><a href="https://wireframe.cc/">Wireframe.cc: minimal wireframing tool/a></li>
+      <li><a href="https://www.adobe.com/uk/products/xd.html">Adobe XD</a></li>
+      <li><a href="https://www.figma.com/">Figma</a></li>
+      <li><a href="https://www.invisionapp.com/">InVision</a></li>
+      <li><a href="https://icons8.com/lunacy">Lunacy</a></li>
+      <li><a href="https://moqups.com/">Moqups</a></li>
+      <li><a href="https://wireframe.cc/">Wireframe.cc/a></li>
     </ul>
   <h3>UI/UX Kits</h3>
     <ul>
