@@ -33,6 +33,7 @@
     <ul>
       <li><a href="https://www.codecademy.com/learn/learn-git">Codecademy: Learn Git</a></li>
       <li><a href="https://try.github.io/">GitHub: Resources to Learn Git</a></li>
+      <li><a href="https://github.com/kylelobo/The-Documentation-Compendium">GitHub: The Documentation Compendium (README guides and templates)</a></li>
     </ul>
   <h3>HTML &amp; CSS</h3>
     <ul>
