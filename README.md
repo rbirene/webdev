@@ -57,9 +57,14 @@
         <li><a href="https://tailwindcss.com/">Tailwind: CSS framework</a></li>
       </ul>
     </ul>
+  <h3>Java</h3>
+    <ul>
+      <li><a href="https://hi.hyperskill.org/">Hyperskill: learn Java through interactive challenges and creating small apps</a></li>
+    </ul>
   <h3>JavaScript</h3>
     <ul>
       <li><a href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy: Introduction to JavaScript</a></li>
+      <li><a href="https://fullstackopen.com/en">Full Stack Open: JavaScript-based full-stack web development course</a></li>
       <li><a href="https://www.khanacademy.org/computing/computer-programming/programming">Khan Academy: Intro to JS, Drawing & Animation</a></li>
       <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css-js">Khan Academy: HTML/JS, Making webpages interactive</a></li>
       <h4>AngularJS</h4>
@@ -85,6 +90,7 @@
   <h3>PHP</h3>
     <ul>
       <li><a href="https://www.codecademy.com/learn/learn-php">Codecademy: Learn PHP</a></li>
+      <li><a href="https://phptherightway.com/">PHP the Right Way: quick reference for popular coding standards and best practices</a></li>
     </ul>
   <h3>Practice</h3>
     <ul>
@@ -99,6 +105,12 @@
     <ul>
       <li><a href="https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567">Learning Python: From Zero to Hero</a></li>
     </ul>
+  <h3>Sandboxes</h3>
+    <ul>
+      <li><a href="https://codepen.io/">CodePen: online code editor for front-end design and development</a></li>
+      <li><a href="https://codesandbox.io/">Code Sandbox: online code and framework editor for Angular, React and Vue</a></li>
+      <li><a href="https://jsfiddle.net/">JSFiddle: online code editor for JavaScript, CSS, HTML and CoffeeScript</a></li>
+    </ul>
   <h3>SQL</h3>
     <ul>
       <li><a href="https://www.codecademy.com/learn/learn-sql">Codecademy: Learn SQL</a></li>
@@ -108,12 +120,22 @@
     </ul>
    <h3>Web Development</h3>
     <ul>
+      <li><a href="https://apilist.fun/">API List: a public list of free APIs for programmers</a></li>
       <li><a href="https://devdocs.io/">DevDocs: a collection of almost all web dev docs</a></li>
       <li><a href="https://github.com/thedaviddias/Front-End-Checklist">Front-End Checklist: an exhaustive list of all elements needed/tested before launching website to production</a></li>
+      <li><a href="https://github.com/thedaviddias/Front-End-Performance-Checklist">Front-End Performance Checklist: an exhaustive list of elements you should check or at least be aware of, as a Front-End developer and apply to your project</a></li>
+      <li><a href="https://github.com/thedaviddias/Front-End-Design-Checklist">Front-End Design Checklist: an exhaustive list of elements which can help developers to analyse and understand web designs and ensure the quality of their Front-End development</a></li>
       <li><a href="https://www.theodinproject.com/home">The Odin Project: free, open-source full-stack web development curriculum</a></li>
+      <li><a href="https://github.com/kamranahmedse/developer-roadmap">Web Developer Roadmap: roadmap to demonstrate paths and technologies that can be adopted in frontend, backend or a devops</a></li>
+      <h4>Browser Compatibility</h4>
+      <ul>
+        <li><a href="https://caniuse.com/">Can I Use: browser support tables for modern web technologies</a></li>
+      </ul>
       <h4>Content</h4>
       <ul>
+        <li><a href="https://jsonplaceholder.typicode.com/">JSON Placeholder: fake online REST API for testing and prototyping</a></li>
         <li><a href="https://loremipsum.io/">Lorem Ipsum Generator: generate lorem ipsum placeholder text</a></li>
+        <li><a href="https://mockaroo.com/">Mockaroo: realistic data generator in CSV, JSON, SQL, and Excel formats</a></li>
         <li><a href="https://randomuser.me/">Random User Generator: generate random user data</a></li>
       </ul>
       <h4>Hosting</h4>
@@ -152,6 +174,7 @@
       <li><a href="https://www.materialpalette.com/">Material Palette: colour scheme generator</a></li>
       <li><a href="http://paletton.com">Paletton: colour palette</a></li>
       <li><a href="https://picular.co/">Picular: Google but for colours</a></li>
+      <li><a href="https://www.w3schools.com/colors/colors_picker.asp">W3Schools: colour picker with tones, saturation and hues</a></li>
     </ul>
   <h3>Icons</h3>
     <ul>
