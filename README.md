@@ -147,6 +147,7 @@
       <li><a href="http://www.colorlisa.com/">Color Lisa: colour palette ideas from thr world's greatest artists</a></li>
       <li><a href="https://www.computerhope.com/htmcolor.htm">Computer Hope: HTML colours</a></li>
       <li><a href="https://coolors.co/">Coolors: colour scheme generator</a></li>
+      <li><a href="https://colors.eva.design/">Eva Design System: deep learning colour generator</a></li>
       <li><a href="https://www.materialpalette.com/">Material Palette: colour scheme generator</a></li>
       <li><a href="http://paletton.com">Paletton: colour palette</a></li>
       <li><a href="https://picular.co/">Picular: Google but for colours</a></li>
