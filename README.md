@@ -110,6 +110,7 @@
     <ul>
       <li><a href="https://devdocs.io/">DevDocs: a collection of almost all web dev docs</a></li>
       <li><a href="https://github.com/thedaviddias/Front-End-Checklist">Front-End Checklist: an exhaustive list of all elements needed/tested before launching website to production</a></li>
+      <li><a href="https://www.theodinproject.com/home">The Odin Project: free, open-source full-stack web development curriculum</a></li>
       <h4>Content</h4>
       <ul>
         <li><a href="https://loremipsum.io/">Lorem Ipsum Generator: generate lorem ipsum placeholder text</a></li>
