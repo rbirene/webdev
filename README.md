@@ -2,6 +2,10 @@
 <p>My collection of web design, web development and other learning resources that I find useful. This list is frequently updated.</p><br>
 
 <h2>💻 Development</h2>
+  <ul>
+    <li><a href="https://awesome.re/">Awesome: list of technologies and resources</a></li>
+    <li><a href="https://www.hackterms.com/">Hackterms: the Urban Dictionary but for programming terms</a></li>
+  </ul>
   <h3>Computer Science</h3>
     <ul>
       <li><a href="https://www.coursera.org/learn/build-a-computer">Coursera: Build a Modern Computer from First Principles</a></li>
@@ -27,6 +31,18 @@
       <ul>
         <li><a href="https://www.coursera.org/learn/machine-learning">Coursera: Machine Learning</a></li>
         <li><a href="https://www.coursera.org/specializations/mathematics-machine-learning">Coursera: Mathematics for Machine Learning Specialisation</a></li>
+      </ul>
+    </ul>
+  <h3>Databases</h3>
+    <ul>
+      <li><a href="http://www.databaseanswers.org/data_models/">Industry Data Models: for ideas on how to create database designs</a></li>
+      <li><a href="https://mockaroo.com/">Mockaroo: realistic data generator in CSV, JSON, SQL, and Excel formats</a></li>
+      <h4>SQL</h4>
+      <ul>
+        <li><a href="https://www.codecademy.com/learn/learn-sql">Codecademy: Learn SQL</a></li>
+        <li><a href="https://www.khanacademy.org/computing/computer-programming/sql">Khan Academy: Intro to SQL, Querying and managing data</a></li>
+        <li><a href="https://udacity.com/course/intro-to-relational-databases--ud197">Udacity: Intro to Relational Databases</a></li>
+        <li><a href="https://udacity.com/course/sql-for-data-analysis--ud198">Udacity: SQL for Data Analysis</a></li>
       </ul>
     </ul>
   <h3>Git</h3>
@@ -67,7 +83,8 @@
       <li><a href="https://fullstackopen.com/en">Full Stack Open: JavaScript-based full-stack web development course</a></li>
       <li><a href="https://www.khanacademy.org/computing/computer-programming/programming">Khan Academy: Intro to JS, Drawing & Animation</a></li>
       <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css-js">Khan Academy: HTML/JS, Making webpages interactive</a></li>
-      <h4>AngularJS</h4>
+      <li><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS: series of books diving deep into the core mechanisms of the JavaScript language</a></li>
+      <h4>Angular</h4>
       <ul>
         <li><a href="https://www.codecademy.com/learn/learn-angularjs">Codecademy: Learn AngularJS</a></li>
         <li><a href="https://www.w3schools.com/angular/default.asp">w3schools: AngularJS Tutorial</a></li>
@@ -81,10 +98,10 @@
         <li><a href="https://www.codecademy.com/learn/learn-jquery">Codecademy: Introduction to jQuery</a></li>
         <li><a href="https://www.khanacademy.org/computing/computer-programming/html-js-jquery">Khan Academy: HTML/JS, Making webpages interactive with jQuery</a></li>
       </ul>
-      <h4>ReactJS</h4>
+      <h4>React</h4>
       <ul>
         <li><a href="https://www.codecademy.com/learn/react-101">Codecademy: Learn ReactJS, Part I</a></li>
-        <li><a href="https://www.codecademy.com/learn/react-102">Codecademy: Learn ReactJS, Part I</a></li>
+        <li><a href="https://www.codecademy.com/learn/react-102">Learn React: easy, visual react tutorials</a></li>
       </ul>
     </ul>
   <h3>PHP</h3>
@@ -111,25 +128,29 @@
       <li><a href="https://codesandbox.io/">Code Sandbox: online code and framework editor for Angular, React and Vue</a></li>
       <li><a href="https://jsfiddle.net/">JSFiddle: online code editor for JavaScript, CSS, HTML and CoffeeScript</a></li>
     </ul>
-  <h3>SQL</h3>
-    <ul>
-      <li><a href="https://www.codecademy.com/learn/learn-sql">Codecademy: Learn SQL</a></li>
-      <li><a href="https://www.khanacademy.org/computing/computer-programming/sql">Khan Academy: Intro to SQL, Querying and managing data</a></li>
-      <li><a href="https://udacity.com/course/intro-to-relational-databases--ud197">Udacity: Intro to Relational Databases</a></li>
-      <li><a href="https://udacity.com/course/sql-for-data-analysis--ud198">Udacity: SQL for Data Analysis</a></li>
-    </ul>
    <h3>Web Development</h3>
     <ul>
       <li><a href="https://apilist.fun/">API List: a public list of free APIs for programmers</a></li>
       <li><a href="https://devdocs.io/">DevDocs: a collection of almost all web dev docs</a></li>
+      <li><a href="https://devhints.io/">DevHints: a collection of web dev cheatsheets</a></li>
       <li><a href="https://github.com/thedaviddias/Front-End-Checklist">Front-End Checklist: an exhaustive list of all elements needed/tested before launching website to production</a></li>
       <li><a href="https://github.com/thedaviddias/Front-End-Performance-Checklist">Front-End Performance Checklist: an exhaustive list of elements you should check or at least be aware of, as a Front-End developer and apply to your project</a></li>
       <li><a href="https://github.com/thedaviddias/Front-End-Design-Checklist">Front-End Design Checklist: an exhaustive list of elements which can help developers to analyse and understand web designs and ensure the quality of their Front-End development</a></li>
       <li><a href="https://www.theodinproject.com/home">The Odin Project: free, open-source full-stack web development curriculum</a></li>
       <li><a href="https://github.com/kamranahmedse/developer-roadmap">Web Developer Roadmap: roadmap to demonstrate paths and technologies that can be adopted in frontend, backend or a devops</a></li>
+        <ul>
+          <li><a href="https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9">Medium: Learn to become a Backend Developer</a></li>
+          <li><a href="https://medium.com/@kamranahmedse/modern-frontend-developer-in-2018-4c2072fa2b9c">Medium: Learn to become a modern Frontend Developer</a></li>
+        </ul>
       <h4>Browser Compatibility</h4>
       <ul>
         <li><a href="https://caniuse.com/">Can I Use: browser support tables for modern web technologies</a></li>
+      </ul>
+      <h4>Chrome Extensions</h4>
+      <ul>
+        <li><a href="https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj">Dimensions: measure screen dimensions and distances between elements on a website</a></li>
+        <li><a href="https://fontface.ninja/">Fontface Ninja: inspect, try, buy and bookmark fonts from any website</a></li>
+        <li><a href="http://palette.site/">Site Palette: generate comprehensive colour palette of a website</a></li>
       </ul>
       <h4>Content</h4>
       <ul>
@@ -147,6 +168,12 @@
         <li><a href="https://www.netlify.com/">Netlify</a></li>
         <li><a href="https://serverless.com/">Serverless</a></li>
         <li><a href="https://zeit.co/">ZEIT</a></li>
+      </ul>
+      <h4>Minifiers, Compressors and Resizers</h4>
+      <ul>
+        <li><a href="https://cssminifier.com/">CSS Minifier: free, online CSS minifier/compressor</a></li>
+        <li><a href="https://javascript-minifier.com/">JavaScript Minifier: free, online JavaScript minifier/compressor</a></li>
+        <li><a href="https://img-resize.com/">Resize Your Images: free, online image resizer for PNGs, JPGs, GIFs and BMPs</a></li>
       </ul>
     </ul>
 <br>
@@ -172,6 +199,7 @@
       <li><a href="https://coolors.co/">Coolors: colour scheme generator</a></li>
       <li><a href="https://colors.eva.design/">Eva Design System: deep learning colour generator</a></li>
       <li><a href="https://www.materialpalette.com/">Material Palette: colour scheme generator</a></li>
+      <li><a href="http://chir.ag/projects/name-that-color/">Name That Color: paste hex codes in and receive a generated name</a></li>
       <li><a href="http://paletton.com">Paletton: colour palette</a></li>
       <li><a href="https://picular.co/">Picular: Google but for colours</a></li>
       <li><a href="https://www.w3schools.com/colors/colors_picker.asp">W3Schools: colour picker with tones, saturation and hues</a></li>
