@@ -83,6 +83,7 @@
       <li><a href="https://fullstackopen.com/en"><strong>Full Stack Open</strong></a>: JavaScript-based full-stack web development course</li>
       <li><a href="https://www.khanacademy.org/computing/computer-programming/programming"><strong>Khan Academy</strong></a>: Intro to JS, Drawing & Animation</li>
       <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css-js"><strong>Khan Academy</strong></a>: HTML/JS, Making webpages interactive</li>
+      <li><a href="https://www.theodinproject.com/tracks/2"><strong>The Odin Project</strong></a>: learn full-stack JavaScript</li>
       <li><a href="https://github.com/getify/You-Dont-Know-JS"><strong>You Don't Know JS</strong></a>: series of books diving deep into the core mechanisms of the JavaScript language</li>
       <h4>Angular</h4>
       <ul>
@@ -97,6 +98,11 @@
       <ul>
         <li><a href="https://www.codecademy.com/learn/learn-jquery"><strong>Codecademy</strong></a>: Introduction to jQuery</li>
         <li><a href="https://www.khanacademy.org/computing/computer-programming/html-js-jquery"><strong>Khan Academy</strong></a>: HTML/JS, Making webpages interactive with jQuery</li>
+      </ul>
+      <h4>Node.js</h4>
+      <ul>
+        <li><a href="https://github.com/maxogden/art-of-node"><strong>The Art of Node</strong></a>: a short introduction to Node.js</li>
+        <li><a href="https://www.theodinproject.com/courses/nodejs"><strong>The Odin Project</strong></a>: learn Node.js to take your JavaScript skills to the server-side</li>
       </ul>
       <h4>React</h4>
       <ul>
@@ -136,6 +142,7 @@
       <li><a href="https://apilist.fun/"><strong>API List</strong></a>: a public list of free APIs for programmers</li>
       <li><a href="https://devdocs.io/"><strong>DevDocs</strong></a>: a collection of almost all web dev docs</li>
       <li><a href="https://devhints.io/"><strong>DevHints</strong></a>: a collection of web dev cheatsheets</li>
+      <li><a href="https://learn.freecodecamp.org/"><strong>FreeCodeCamp</strong></a>: thousands of coding lessons, especially for web development</li>
       <li><a href="https://github.com/thedaviddias/Front-End-Checklist"><strong>Front-End Checklist</strong></a>: an exhaustive list of all elements needed/tested before launching website to production</li>
       <li><a href="https://github.com/thedaviddias/Front-End-Performance-Checklist"><strong>Front-End Performance Checklist</strong></a>: an exhaustive list of elements you should check or at least be aware of, as a Front-End developer and apply to your project</li>
       <li><a href="https://www.theodinproject.com/home"><strong>The Odin Project</strong></a>: free, open-source full-stack web development curriculum</li>
@@ -204,7 +211,7 @@
       <li><a href="http://chir.ag/projects/name-that-color/"><strong>Name That Color</strong></a>: paste hex codes in and receive a generated name</li>
       <li><a href="http://paletton.com"><strong>Paletton</strong></a>: colour palette</li>
       <li><a href="https://picular.co/"><strong>Picular</strong></a>: Google but for colours</li>
-      <li><a href="https://www.w3schools.com/colors/colors_picker.asp"><strong>W3Schools</strong>: colour picker with tones, saturation and hues</a></li>
+      <li><a href="https://www.w3schools.com/colors/colors_picker.asp"><strong>W3Schools</strong>: colour picker with tones, saturation and hues</li>
     </ul>
   <h3>Icons</h3>
     <ul>
@@ -246,8 +253,18 @@
       <li><a href="https://www.figma.com/"><strong>Figma</strong></a></li>
       <li><a href="https://www.invisionapp.com/"><strong>InVision</strong></a></li>
       <li><a href="https://icons8.com/lunacy"><strong>Lunacy</strong></a></li>
-      <li><a href="https://moqups.com/"><strong>Moqups</strong></a></a></li>
+      <li><a href="https://moqups.com/"><strong>Moqups</strong></a></li>
+      <li><a href="https://vectr.com/"><strong>Moqups</strong></a>: free vector graphics software</li>
       <li><a href="https://wireframe.cc/"><strong>Wireframe.cc</strong></a></li>
+    </ul>
+  <h3>Typography</h3>
+    <ul>
+      <li><a href="https://ficture.design/"><strong>Ficture Design</strong></a>: archive of fonts in use for inspiration</li>
+      <li><a href="https://fonts.google.com/"><strong>Google Fonts</strong></a>: free, open-source fonts</li>
+      <li><a href="http://fontcomb.kkuistore.com/"><strong>KK UI Store</strong></a>: Font Combinations Library</li>
+      <li><a href="https://app.typeanything.io/"><strong>Type Anything</strong></a>: tool to create font combinations</li>
+      <li><a href="https://type-scale.com/"><strong>Type Scale</strong></a>: a visual font size calculator</li>
+      <li><a href="https://wordmark.it/"><strong>Wordmark</strong></a>: choose fonts from your current library</li>
     </ul>
   <h3>UI/UX Kits</h3>
     <ul>
@@ -267,10 +284,3 @@
     <ul>
       <li><a href="https://github.com/thedaviddias/Front-End-Design-Checklist"><strong>Front-End Design Checklist</strong></a>: an exhaustive list of elements which can help developers to analyse and understand web designs and ensure the quality of their Front-End development</li>
     </ul>
-  <h3>Typography</h3>
-    <ul>
-      <li><a href="https://ficture.design/"><strong>Ficture Design</strong></a>: archive of fonts in use for inspiration</li>
-      <li><a href="https://fonts.google.com/"><strong>Google Fonts</strong></a>: free, open-source fonts</li>
-      <li><a href="http://fontcomb.kkuistore.com/"><strong>KK UI Store</strong></a>: Font Combinations Library</li>
-    </ul>
-  <br>
