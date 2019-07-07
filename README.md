@@ -20,7 +20,7 @@
       <ul>
         <li><a href="https://cognitiveclass.ai/"><strong>Cognitive Class</strong></a>: data science and cognitive computing courses</li>
         <li><a href="https://www.coursera.org/specializations/ibm-data-science-professional-certificate"><strong>Coursera</strong></a>: IBM Data Science Professional Certificate</li>
-        <li><a href="https://www.datacamp.com/"><strong>Coursera</strong></a>Data Camp: learn data science online</li>
+        <li><a href="https://www.datacamp.com/"><strong>Data Camp</strong></a>: learn data science online</li>
       </ul>
      <h4>Cyber Security</h4>
       <ul>
@@ -64,6 +64,11 @@
     <h4>Sass</h4>
       <ul>
         <li><a href="https://www.codecademy.com/learn/learn-sass"><strong>Codecademy</strong></a>: Learn Sass</li>
+      </ul>
+    <h4>Code Generators</h4>
+      <ul>
+        <li><a href="https://components.ai/"><strong>Components AI</strong></a>: generate gradients, stripes and box-shadows</li>
+        <li><a href="http://www.cssarrowplease.com/"><strong>CSS Arrow Please</strong></a>: create and export CSS code for a custom box with an arrow extending out from the side</li>
       </ul>
     <h4>Other</h4>
       <ul>
@@ -161,6 +166,13 @@
         <li><a href="https://fontface.ninja/"><strong>Fontface Ninja</strong></a>: inspect, try, buy and bookmark fonts from any website</li>
         <li><a href="http://palette.site/"><strong>Site Palette</strong></a>: generate comprehensive colour palette of a website</li>
       </ul>
+      <h4>Components</h4>
+      <ul>
+        <li><a href="https://pqina.nl/doka/"><strong>Doka</strong></a>: a JavaScript image editor for websites</li>
+        <li><a href="https://shopify.github.io/draggable/"><strong>Draggable</strong></a>: a lightweight and responsive drag & drop library</li>
+        <li><a href="https://pqina.nl/filepond/"><strong>FilePond</strong></a>: a JavaScript library for smooth and easy file-uploading</li>
+        <li><a href="https://stripe.com/payments/elements"><strong>Stripe Elements</strong></a>: pre-built components to create customised checkout pages, with built-in input validation, formatting, masking, styling and error handling</li>
+      </ul>
       <h4>Content</h4>
       <ul>
         <li><a href="https://jsonplaceholder.typicode.com/"><strong>JSON Placeholder</strong></a>: fake online REST API for testing and prototyping</li>
@@ -185,9 +197,21 @@
         <li><a href="https://img-resize.com/"><strong>Resize Your Images</strong></a>: free, online image resizer for PNGs, JPGs, GIFs and BMPs</li>
       </ul>
     </ul>
+   <h3>Workflow and Teams</h3>
+    <ul>
+      <li><a href="https://airtable.com/"><strong>Airtable</strong></a>: part spreadsheet, part database</li>
+      <li><a href="https://asana.com/"><strong>Asana</strong></a>: manage team's work, projects and tasks online</li>
+      <li><a href="https://basecamp.com/"><strong>Basecamp</strong></a>: Project Management & Team Communication Software</li>
+      <li><a href="https://coda.io"><strong>Coda</strong></a>: A doc as powerful as an app</li>
+      <li><a href="https://www.notion.so/"><strong>Notion</strong></a>: all-in-one workspace</li>
+      <li><a href="http://www.gettoby.com/"><strong>Toby</strong></a>: organise tabs like bookmarks</li>
+    </ul>
 <br>
 
 <h2>🎨 Design</h2>
+  <ul>
+    <li><a href="https://www.abstract.com/"><strong>Abstract</strong></a>: version control, but for designs</li>
+  </ul>
   <h3>Case Studies</h3>
     <ul>
       <li><a href="https://www.smashingmagazine.com/2017/10/large-scale-design-system-us-government/"><strong>Building A Large-Scale Design System</strong></a>: How A Design System Was Created For The U.S. Government</li>
