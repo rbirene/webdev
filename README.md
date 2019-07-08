@@ -58,6 +58,9 @@
       <li><a href="https://www.codecademy.com/learn/learn-css"><strong>Codecademy</strong></a>: Learn CSS</li>
       <li><a href="https://www.codecademy.com/learn/learn-responsive-design"><strong>Codecademy</strong></a>: Learn Responsive Design</li>
       <li><a href="https://css-tricks.com/"><strong>CSS Tricks</strong></a>: tips, tricks and techniques on using CSS</li>
+        <ul>
+          <li><a href="https://css-tricks.com/how-to-section-your-html/">How to Section Your HTML</a></li>
+        </ul>
       <li><a href="https://internetingishard.com/html-and-css/"><strong>HTML and CSS is Hard</strong></a>: visual web dev tutorial for complete beginners</li>
       <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css"><strong>Khan Academy</strong></a>: Intro to HTML/CSS, Making webpages</li>
       <li><a href="https://grid.layoutit.com/"><strong>Layout It!</strong></a>: CSS Grid Generator</li>
@@ -168,9 +171,11 @@
       </ul>
       <h4>Components</h4>
       <ul>
+        <li><a href="https://github.com/sandoche/Darkmode.js"><strong>Darkmode.js</strong></a>: a Dark Mode/Night Mode for websites</li>
         <li><a href="https://pqina.nl/doka/"><strong>Doka</strong></a>: a JavaScript image editor for websites</li>
         <li><a href="https://shopify.github.io/draggable/"><strong>Draggable</strong></a>: a lightweight and responsive drag & drop library</li>
         <li><a href="https://pqina.nl/filepond/"><strong>FilePond</strong></a>: a JavaScript library for smooth and easy file-uploading</li>
+        <li><a href="https://numverify.com/"><strong>Numverify</strong></a>: a RESTful JSON API for national and international phone number validation</li>
         <li><a href="https://stripe.com/payments/elements"><strong>Stripe Elements</strong></a>: pre-built components to create customised checkout pages, with built-in input validation, formatting, masking, styling and error handling</li>
       </ul>
       <h4>Content</h4>
@@ -218,6 +223,7 @@
       <li><a href="https://blog.prototypr.io/todo-b6c608656211"><strong>Daily Task Manager</strong></a></li>
       <li><a href="https://www.smashingmagazine.com/2017/08/removing-friction-ux-last-minute-travel-planning-activity-booking/"><strong>Removing Friction In UX</strong></a>: Last-Minute Travel Planning And Activity Booking</li>
       <li><a href="https://medium.com/usable/rethinking-hotels-ng-886f6e25f1bf"><strong>Rethinking hotels.ng</strong></a>: A Case for Design in African Start-ups</li>
+      <li><a href="https://medium.com/societe-generale-design/how-we-grew-our-design-system-over-5-years-of-design-experimentation-d2c72e1ec7de"><strong>Societe Generale</strong></a>: How we Grew our Design System Over 5 Years of Design Experimentation</li>
       <li><a href="http://simonpan.com/work/uber/"><strong>Uber</strong></a>: Perfecting the Pickup</li>
     </ul>
   <h3>Colours</h3>
@@ -262,14 +268,15 @@
     </ul>
   <h3>Photos</h3>
     <ul>
-      <li><a href="https://isorepublic.com/"><strong>ISO Republic</strong></a></li>
-      <li><a href="https://photos.icons8.com/"><strong>Moose</strong></a></li>
-      <li><a href="https://negativespace.co/"><strong>Negative Space</strong></a></li>
-      <li><a href="https://nos.twnsnd.co/"><strong>New Old Stock</strong></a></li>
-      <li><a href="https://www.pexels.com/"><strong>Pexels</strong></a></li>
-      <li><a href="https://picjumbo.com/"><strong>PicJumbo</strong></a></li>
-      <li><a href="https://pixabay.com/"><strong>Pixabay</strong></a></li>
-      <li><a href="https://unsplash.com/"><strong>Unsplash</strong></a></li>
+      <li><a href="https://isorepublic.com/"><strong>ISO Republic</strong></a>: free stock photos</li>
+      <li><a href="https://photos.icons8.com/"><strong>Moose</strong></a>: free stock photos</li>
+      <li><a href="https://photos.icons8.com/creator"><strong>Moose Photo Creator</strong></a>: create own stock photos</li>
+      <li><a href="https://negativespace.co/"><strong>Negative Space</strong></a>: free stock photos</li>
+      <li><a href="https://nos.twnsnd.co/"><strong>New Old Stock</strong></a>: free stock photos</li>
+      <li><a href="https://www.pexels.com/"><strong>Pexels</strong></a>: free stock photos</li>
+      <li><a href="https://picjumbo.com/"><strong>PicJumbo</strong></a>: free stock photos</li>
+      <li><a href="https://pixabay.com/"><strong>Pixabay</strong></a>: free stock photos</li>
+      <li><a href="https://unsplash.com/"><strong>Unsplash</strong></a>: free stock photos</li>
     </ul>
   <h3>Prototyping Tools</h3>
     <ul>
