@@ -313,6 +313,6 @@
     </ul>
   <h3>User Interface</h3>
     <ul>
-      <li><a href="https://github.com/buildingbeautifuluis/buildingbeautifuluis.github.io/blob/master/00-Overview.md"><strong>Building Beautiful UIs</strong></a>: an online 'book' to develop and enhance UI existing skills</li>
+      <li><a href="https://github.com/buildingbeautifuluis/buildingbeautifuluis.github.io/blob/master/00-Overview.md"><strong>Building Beautiful UIs</strong></a>: an online 'book' to develop and enhance UI skills</li>
       <li><a href="https://github.com/thedaviddias/Front-End-Design-Checklist"><strong>Front-End Design Checklist</strong></a>: an exhaustive list of elements which can help developers to analyse and understand web designs and ensure the quality of their Front-End development</li>
     </ul>
