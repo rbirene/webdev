@@ -87,6 +87,7 @@
     </ul>
   <h3>JavaScript</h3>
     <ul>
+      <li><a href="https://github.com/ryanmcdermott/clean-code-javascript"><strong>Clean Code Javascript</strong></a>: Clean Code concepts adapted for JavaScript</li>
       <li><a href="https://www.codecademy.com/learn/introduction-to-javascript"><strong>Codecademy</strong></a>: Introduction to JavaScript</li>
       <li><a href="https://fullstackopen.com/en"><strong>Full Stack Open</strong></a>: JavaScript-based full-stack web development course</li>
       <li><a href="https://www.khanacademy.org/computing/computer-programming/programming"><strong>Khan Academy</strong></a>: Intro to JS, Drawing & Animation</li>
