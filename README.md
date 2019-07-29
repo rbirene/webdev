@@ -148,7 +148,6 @@
     </ul>
    <h3>Web Development</h3>
     <ul>
-      <li><a href="https://apilist.fun/"><strong>API List</strong></a>: a public list of free APIs for programmers</li>
       <li><a href="https://devdocs.io/"><strong>DevDocs</strong></a>: a collection of almost all web dev docs</li>
       <li><a href="https://devhints.io/"><strong>DevHints</strong></a>: a collection of web dev cheatsheets</li>
       <li><a href="https://learn.freecodecamp.org/"><strong>FreeCodeCamp</strong></a>: thousands of coding lessons, especially for web development</li>
@@ -160,6 +159,11 @@
           <li><a href="https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9"><strong>Medium</strong></a>: Learn to become a Backend Developer</li>
           <li><a href="https://medium.com/@kamranahmedse/modern-frontend-developer-in-2018-4c2072fa2b9c"><strong>Medium</strong></a>: Learn to become a modern Frontend Developer</li>
         </ul>
+      <h4>APIs</h4>
+      <ul>
+        <li><a href="https://apilist.fun/"><strong>API List</strong></a>: a public list of free APIs for programmers</li>
+        <li><a href="https://github.com/public-apis/public-apis"><strong>Public APIs</strong></a>: a collective list of free APIs for use in software and web development</li>
+      </ul>
       <h4>Browser Compatibility</h4>
       <ul>
         <li><a href="https://caniuse.com/"><strong>Can I Use</strong></a>: browser support tables for modern web technologies</li>
