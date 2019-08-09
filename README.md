@@ -145,6 +145,7 @@
           <li><a href="https://codesandbox.io/post/Templates">create custom templates</a></li>
         </ul>
       <li><a href="https://jsfiddle.net/"><strong>JSFiddle</strong></a>: online code editor for JavaScript, CSS, HTML and CoffeeScript</li>
+      <li><a href="https://repl.it/"><strong>Repl.it</strong></a>: online coding platform with hosting</li>
     </ul>
    <h3>Web Development</h3>
     <ul>
