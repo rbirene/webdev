@@ -10,11 +10,12 @@
     <ul>
       <li><a href="https://www.coursera.org/learn/build-a-computer"><strong>Coursera</strong></a>: Build a Modern Computer from First Principles</li>
       <li><a href="https://github.com/ossu/computer-science"><strong>GitHub</strong></a>: Open Source Society University</li>
-    <h4>Algorithms</h4>
+    <h4>Algorithms and Data Structures</h4>
       <ul>
         <li><a href="https://www.coursera.org/learn/algorithms-part1"><strong>Coursera</strong></a>: Algorithms, Part I</li>
         <li><a href="https://www.khanacademy.org/computing/computer-science/algorithms"><strong>Khan Academy</strong></a>: Computer Science Algorithms</li>
         <li><a href="https://udacity.com/course/data-structures-and-algorithms-in-python--ud513"><strong>Udacity</strong></a>: Intro to Data Structures and Algorithms</li>
+        <li><a href="https://visualgo.net/en"><strong>VisuAlgo</strong></a>: visualising data structures and algorithms through animation</li>
       </ul>
      <h4>Big Data</h4>
       <ul>
@@ -89,6 +90,7 @@
     <ul>
       <li><a href="https://github.com/ryanmcdermott/clean-code-javascript"><strong>Clean Code Javascript</strong></a>: Clean Code concepts adapted for JavaScript</li>
       <li><a href="https://www.codecademy.com/learn/introduction-to-javascript"><strong>Codecademy</strong></a>: Introduction to JavaScript</li>
+      <li><a href="https://codetogo.io/"><strong>Code to Go</strong></a>: up to date code snippets for common JavaScript use cases</li>
       <li><a href="https://fullstackopen.com/en"><strong>Full Stack Open</strong></a>: JavaScript-based full-stack web development course</li>
       <li><a href="https://www.khanacademy.org/computing/computer-programming/programming"><strong>Khan Academy</strong></a>: Intro to JS, Drawing & Animation</li>
       <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css-js"><strong>Khan Academy</strong></a>: HTML/JS, Making webpages interactive</li>
