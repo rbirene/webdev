@@ -28,6 +28,10 @@
         <li><a href="https://github.com/vitalysim/Awesome-Hacking-Resources"><strong>GitHub</strong></a>: Hacking Resources</li>
         <li><a href="https://www.immersivelabs.com"><strong>Immersive Labs</strong></a>: platform for hands-on cyber skills development</li>
       </ul>
+    <h4>DevOps</h4>
+      <ul>
+        <li><a href="https://youtu.be/fqMOX6JJhGo">(📺) <strong>freeCodeCamp</strong></a>: Learn DevOps Basics</li>
+      </ul>
      <h4>Machine Learning</h4>
       <ul>
         <li><a href="https://www.coursera.org/learn/machine-learning"><strong>Coursera</strong></a>: Machine Learning</li>
