@@ -32,6 +32,7 @@
       <ul>
         <li><a href="https://www.coursera.org/learn/machine-learning"><strong>Coursera</strong></a>: Machine Learning</li>
         <li><a href="https://www.coursera.org/specializations/mathematics-machine-learning"><strong>Coursera</strong></a>: Mathematics for Machine Learning Specialisation</li>
+        <li><a href="https://developers.google.com/machine-learning/crash-course/"><strong>Google</strong></a>: Machine Learning Crash Course</li>
       </ul>
     </ul>
   <h3>Databases</h3>
