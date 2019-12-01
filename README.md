@@ -30,7 +30,8 @@
       </ul>
     <h4>DevOps</h4>
       <ul>
-        <li><a href="https://youtu.be/fqMOX6JJhGo">(📺) <strong>freeCodeCamp</strong></a>: Learn DevOps Basics</li>
+        <li><a href="https://www.freecodecamp.org/news/a-beginners-guide-on-how-to-host-a-static-site-with-aws/"><strong>freeCodeCamp</strong></a>: How to Host your Static Website with AWS</li>
+        <li>(📺) <a href="https://youtu.be/fqMOX6JJhGo"><strong>freeCodeCamp</strong></a>: Docker Tutorial for Beginners</li>
       </ul>
      <h4>Machine Learning</h4>
       <ul>
