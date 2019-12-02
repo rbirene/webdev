@@ -31,7 +31,7 @@
     <h4>DevOps</h4>
       <ul>
         <li><a href="https://www.freecodecamp.org/news/a-beginners-guide-on-how-to-host-a-static-site-with-aws/"><strong>freeCodeCamp</strong></a>: How to Host your Static Website with AWS</li>
-        <li>(📺) <a href="https://youtu.be/fqMOX6JJhGo"><strong>freeCodeCamp</strong></a>: Docker Tutorial for Beginners</li>
+        <li><a href="https://youtu.be/fqMOX6JJhGo"><strong>freeCodeCamp</strong></a>: Docker Tutorial for Beginners</li>
       </ul>
      <h4>Machine Learning</h4>
       <ul>
@@ -168,6 +168,14 @@
           <li><a href="https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9"><strong>Medium</strong></a>: Learn to become a Backend Developer</li>
           <li><a href="https://medium.com/@kamranahmedse/modern-frontend-developer-in-2018-4c2072fa2b9c"><strong>Medium</strong></a>: Learn to become a modern Frontend Developer</li>
         </ul>
+      <h4>A11y</h4>
+      <ul>
+        <li><a href="https://egghead.io/courses/start-building-accessible-web-applications-today"><strong>Egghead</strong></a>: Start Building Accessible Web Applications Today</li>
+        <li><a href="https://developers.google.com/web/fundamentals/accessibility/"><strong>Google</strong></a>: Accessibility</li>
+        <li><a href="https://material.io/design/usability/accessibility.html#"><strong>Material Design</strong></a>: Accessibility</li>
+        <li><a href="https://a11yproject.com/"><strong>The A11Y Project</strong></a>: A community-driven effort to make web accessibility easier</li>
+        <li><a href="https://www.udacity.com/course/web-accessibility--ud891"><strong>Udacity</strong></a>: Web Accessibility, Developing with Empathy</li>
+      </ul>
       <h4>APIs</h4>
       <ul>
         <li><a href="https://apilist.fun/"><strong>API List</strong></a>: a public list of free APIs for programmers</li>
