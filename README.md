@@ -14,6 +14,7 @@
       <ul>
         <li><a href="https://www.coursera.org/learn/algorithms-part1"><strong>Coursera</strong></a>: Algorithms, Part I</li>
         <li><a href="https://appliedcsskills.withgoogle.com/"><strong>Google</strong></a>: Applied CS Skills</li>
+        <li><a href="https://livebook.manning.com/book/grokking-algorithms/about-this-book/"><strong>Grokking Algorithms</strong></a>: an illustrated guide for programmers and other curious people</li>
         <li><a href="https://www.khanacademy.org/computing/computer-science/algorithms"><strong>Khan Academy</strong></a>: Computer Science Algorithms</li>
         <li><a href="https://youtu.be/HtSuA80QTyo"><strong>MIT OpenCourseWare</strong></a>: MIT 6.006 Introduction to Algorithms, Fall 2011 (lecture videos)</li>
         <li><a href="https://udacity.com/course/data-structures-and-algorithms-in-python--ud513"><strong>Udacity</strong></a>: Intro to Data Structures and Algorithms</li>
