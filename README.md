@@ -175,7 +175,7 @@
           <li><a href="https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9"><strong>Medium</strong></a>: Learn to become a Backend Developer</li>
           <li><a href="https://medium.com/@kamranahmedse/modern-frontend-developer-in-2018-4c2072fa2b9c"><strong>Medium</strong></a>: Learn to become a modern Frontend Developer</li>
         </ul>
-      <h4>A11y</h4>
+      <h4>A11y + Accessibility</h4>
       <ul>
         <li><a href="https://egghead.io/courses/start-building-accessible-web-applications-today"><strong>Egghead</strong></a>: Start Building Accessible Web Applications Today</li>
         <li><a href="https://developers.google.com/web/fundamentals/accessibility/"><strong>Google</strong></a>: Accessibility</li>
