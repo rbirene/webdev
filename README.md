@@ -109,16 +109,16 @@
       <ul>
         <li><a href="https://www.codecademy.com/learn/learn-angularjs"><strong>Codecademy</strong></a>: Learn AngularJS</li>
         <li><a href="https://www.w3schools.com/angular/default.asp"><strong>w3schools</strong></a>: AngularJS Tutorial</li>
-      </ul>
         <h5>Other</h5>
-          <ul>
-            <li><a href="https://jtblin.github.io/angular-chart.js/"><strong>GitHub</strong></a>: Angular Chart</li>
-          </ul>
+        <ul>
+          <li><a href="https://jtblin.github.io/angular-chart.js/"><strong>GitHub</strong></a>: Angular Chart</li>
+        </ul>
+      </ul>
       <h4>Gatsby</h4>
       <ul>
         <li><a href="https://youtu.be/8t0vNu2fCCM"><strong>Andrew Mead</strong></a>: The Great Gatsby Bootcamp Full Tutorial</li>
       </ul>
-      h4>jQuery</h4>
+      <h4>jQuery</h4>
       <ul>
         <li><a href="https://www.codecademy.com/learn/learn-jquery"><strong>Codecademy</strong></a>: Introduction to jQuery</li>
         <li><a href="https://www.khanacademy.org/computing/computer-programming/html-js-jquery"><strong>Khan Academy</strong></a>: HTML/JS, Making webpages interactive with jQuery</li>
