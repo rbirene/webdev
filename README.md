@@ -132,6 +132,7 @@
       <ul>
         <li><a href="https://www.codecademy.com/learn/react-101"><strong>Codecademy</strong></a>: Learn ReactJS, Part I</li>
         <li><a href="https://www.kirupa.com/react/index.htm"><strong>Learn React</strong></a>: easy, visual react tutorials</li>
+        <li><a href="https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/"><strong>Medium</strong></a>: The React Cheatsheet for 2020 (+ real-world examples)</li>
       </ul>
     </ul>
   <h3>PHP</h3>
