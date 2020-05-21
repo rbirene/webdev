@@ -34,7 +34,7 @@
     <h4>DevOps</h4>
       <ul>
         <li><a href="https://www.freecodecamp.org/news/a-beginners-guide-on-how-to-host-a-static-site-with-aws/"><strong>freeCodeCamp</strong></a>: How to Host your Static Website with AWS</li>
-        <li><a href="https://youtu.be/fqMOX6JJhGo"><strong>freeCodeCamp</strong></a>: Docker Tutorial for Beginners</li>
+        <li><a href="https://youtu.be/fqMOX6JJhGo"><strong>freeCodeCamp (YouTube)</strong></a>: Docker Tutorial for Beginners</li>
       </ul>
      <h4>Machine Learning</h4>
       <ul>
@@ -132,7 +132,7 @@
       <ul>
         <li><a href="https://www.codecademy.com/learn/react-101"><strong>Codecademy</strong></a>: Learn ReactJS, Part I</li>
         <li><a href="https://www.kirupa.com/react/index.htm"><strong>Learn React</strong></a>: easy, visual react tutorials</li>
-        <li><a href="https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/"><strong>Medium</strong></a>: The React Cheatsheet for 2020 (+ real-world examples)</li>
+        <li><a href="https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/"><strong>freeCodeCamp (Medium)</strong></a>: The React Cheatsheet for 2020 (+ real-world examples)</li>
       </ul>
     </ul>
   <h3>PHP</h3>
@@ -151,7 +151,8 @@
     </ul>
   <h3>Python</h3>
     <ul>
-      <li><a href="https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567"><strong>Learning Python</strong></a>: From Zero to Hero</li>
+      <li><a href="https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567"><strong>freeCodeCamp (Medium)</strong></a>: From Zero to Hero</li>
+  <li><a href="https://youtu.be/rfscVS0vtbw"><strong>freeCodeCamp (YouTube)</strong></a>: Learn Python - Full Course for Beginners [Tutorial]</li>
     </ul>
   <h3>Sandboxes</h3>
     <ul>
