@@ -1,5 +1,5 @@
 <h1>Design & Development Resources</h1>
-<p>My collection of web design, web development and other learning resources that I find useful. This list is frequently updated.</p><br>
+<p>My collection of web design, web development and other computer science and software engineering learning resources that I find useful. This list is frequently updated.</p><br>
 
 <h2>💻 Development</h2>
   <ul>
@@ -151,8 +151,12 @@
     </ul>
   <h3>Python</h3>
     <ul>
+      <li><a href="https://github.com/vinta/awesome-python"><strong>Awesome Python (GitHub)</strong></a>: a curated list of Python frameworks, libraries, software and resources</li>
+      <li><a href="https://www.edx.org/course/introduction-to-computer-science-and-programming-7"><strong>MITx (edX)</strong></a>: Introduction to Computer Science and Programming Using Python</li>
       <li><a href="https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567"><strong>freeCodeCamp (Medium)</strong></a>: From Zero to Hero</li>
   <li><a href="https://youtu.be/rfscVS0vtbw"><strong>freeCodeCamp (YouTube)</strong></a>: Learn Python - Full Course for Beginners [Tutorial]</li>
+  <li><a href="https://www.fullstackpython.com/"><strong>Full Stack Python</strong></a>: guide on full-stack Python development (incl. web frameworks, data analysis and visualisation etc.)</li>
+  <li><a href="https://anandology.com/python-practice-book/index.html"><strong>Python Practice Book</strong></a>: online book covering core concepts of Python</li>
     </ul>
   <h3>Sandboxes</h3>
     <ul>
