@@ -227,7 +227,9 @@
         <li><a href="https://pages.github.com/"><strong>GitHub Pages</strong></a></li>
         <li><a href="https://www.heroku.com/"><strong>Heroku</strong></a></li>
         <li><a href="https://www.netlify.com/"><strong>Netlify</strong></a></li>
+        <li><a href="https://render.com/"><strong>Render</strong></a></li>
         <li><a href="https://serverless.com/"><strong>Serverless</strong></a></li>
+        <li><a href="https://vercel.com/"><strong>Vercel</strong></a></li>
         <li><a href="https://zeit.co/"><strong>ZEIT</strong></a></li>
       </ul>
       <h4>Minifiers, Compressors and Resizers</h4>
