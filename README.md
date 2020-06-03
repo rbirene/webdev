@@ -203,6 +203,11 @@
       <ul>
         <li><a href="https://apilist.fun/"><strong>API List</strong></a>: a public list of free APIs for programmers</li>
         <li><a href="https://github.com/public-apis/public-apis"><strong>Public APIs</strong></a>: a collective list of free APIs for use in software and web development</li>
+        <h5>GraphQL</h5>
+        <ul>
+          <li><a href="https://graphql.org/learn/"><strong>GraphQL</strong></a>: official docs for learning</li>
+          <li><a href="https://www.howtographql.com/"><strong>How to GraphQL</strong></a>: The Fullstack Tutorial for GraphQL</li>
+        </ul>
       </ul>
       <h4>Browser Compatibility</h4>
       <ul>
