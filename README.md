@@ -6,6 +6,23 @@
     <li><a href="https://awesome.re/"><strong>Awesome</strong></a>: list of technologies and resources</li>
     <li><a href="https://www.hackterms.com/"><strong>Hackterms</strong></a>: the Urban Dictionary but for programming terms</li>
   </ul>
+  <h3>Career/Interview</h3>
+    <ul>
+      <h4>Coding Interview</h4>
+        <ul>
+          <li><a href="https://www.codewars.com/"><strong>CodeWars</strong></a></li>
+          <li><a href="https://www.codility.com/"><strong>Codility</strong></a></li>
+          <li><a href="http://www.gainlo.co"><strong>Gainlo</strong></a></li>
+          <li><a href="https://www.hackerrank.com/"><strong>HackerRank</strong></a></li>
+          <li><a href="https://www.topcoder.com/"><strong>TopCoder</strong></a></li>
+          <li><a href="https://triplebyte.com/"><strong>TripleByte</strong></a></li>
+        </ul>
+      <h4>Interview Prep</h4>
+        <ul>
+          <li><a href="https://github.com/sudheerj/javascript-interview-questions"><strong>JavaScript Interview Questions & Answers (GitHub)</strong></a></li>
+          <li><a href="https://github.com/sudheerj/reactjs-interview-questions"><strong>React Interview Questions & Answers (GitHub)</strong></a></li>
+        </ul>
+    </ul>
   <h3>Computer Science</h3>
     <ul>
       <li><a href="https://www.coursera.org/learn/build-a-computer"><strong>Coursera</strong></a>: Build a Modern Computer from First Principles</li>
@@ -141,15 +158,6 @@
     <ul>
       <li><a href="https://www.codecademy.com/learn/learn-php"><strong>Codecademy</strong></a>: Learn PHP</li>
       <li><a href="https://phptherightway.com/"><strong>PHP: The Right Way</strong></a>: quick reference for popular coding standards and best practices</li>
-    </ul>
-  <h3>Practice</h3>
-    <ul>
-      <li><a href="https://www.codewars.com/"><strong>CodeWars</strong></a></li>
-      <li><a href="https://www.codility.com/"><strong>Codility</strong></a></li>
-      <li><a href="http://www.gainlo.co"><strong>Gainlo</strong></a></li>
-      <li><a href="https://www.hackerrank.com/"><strong>HackerRank</strong></a></li>
-      <li><a href="https://www.topcoder.com/"><strong>TopCoder</strong></a></li>
-      <li><a href="https://triplebyte.com/"><strong>TripleByte</strong></a></li>
     </ul>
   <h3>Python</h3>
     <ul>
