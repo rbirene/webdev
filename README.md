@@ -147,6 +147,7 @@
       </ul>
       <h4>React</h4>
       <ul>
+        <li><a href="https://create-react-app.dev/"><strong>Create React App</strong></a>: set up a modern web app by running one command</li>
         <li><a href="https://www.codecademy.com/learn/react-101"><strong>Codecademy</strong></a>: Learn ReactJS, Part I</li>
         <li><a href="https://devhints.io/react"><strong>DevHints</strong></a>: React.js cheatsheet</li>
         <li><a href="https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/"><strong>freeCodeCamp (Medium)</strong></a>: The React Cheatsheet for 2020 (+ real-world examples)</li>
