@@ -298,7 +298,7 @@
     </ul>
   <h3>Icons</h3>
     <ul>
-      <li><a href="https://konpa.github.io/devicon/"><strong>Devicon</strong></a>: vector icons for programming languages, designing and development tools as svg and font</li>
+      <li><a href="https://devicon.dev/"><strong>Devicon</strong></a>: vector icons for programming languages, designing and development tools as svg and font</li>
       <li><a href="https://akveo.github.io/eva-icons/"><strong>Eva Icons</strong></a>: vector icons as svg and font</li>
       <li><a href="https://www.flaticon.com/"><strong>Flat Icon</strong></a></li>
       <li><a href="https://fontawesome.com/"><strong>Font Awesome</strong></a>: vector icons as svg and font</li>
